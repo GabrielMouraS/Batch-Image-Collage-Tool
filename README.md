@@ -31,6 +31,17 @@ O script guia o usuário através de diálogos nativos do sistema operacional:
 
 ---
 
+## 🖼️ Exemplo de Resultado
+
+Veja como o script organiza arquivos dispersos em uma visualização única:
+
+| 📂 Entrada (Pasta com arquivos) | 📄 Saída (Colagem Gerada) |
+|:---:|:---:|
+| <img src="assets/exemplo_input.png" width="400"> | <img src="assets/colagem.png" width="400"> |
+| *Arquivos dispersos em pastas* | *Imagem única consolidada* |
+
+---
+
 ## 🚀 Como Executar
 
 1. Instale as dependências:
